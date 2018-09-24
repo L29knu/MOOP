@@ -18,11 +18,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Rect.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rect.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/A/Rect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="166" column="34" lean-forward="true" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
+            <state relative-caret-position="2490">
+              <caret line="166" column="34" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
               <folding>
                 <element signature="e#146#147#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
@@ -49,6 +49,75 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Carriage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B/Carriage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B/Coach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+              <folding>
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreightCar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B/FreightCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoachService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B/CoachService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="76" lean-forward="true" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#243#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,6 +131,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/A/Rect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B/FreightCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B/Carriage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B/Coach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B/CoachService.java" />
       </list>
     </option>
   </component>
@@ -74,10 +147,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="26" />
-    <option name="width" value="799" />
-    <option name="height" value="873" />
+    <option name="width" value="789" />
+    <option name="height" value="871" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -119,6 +192,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="A" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="B" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,12 +278,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537756994944</updated>
-      <workItem from="1537756999545" duration="3233000" />
+      <workItem from="1537756999545" duration="6117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3233000" />
+    <option name="totallyTimeSpent" value="6117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="874" extended-state="6" />
@@ -249,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/A/Rect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="166" column="34" lean-forward="true" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
+        <state relative-caret-position="2490">
+          <caret line="166" column="34" selection-start-line="166" selection-start-column="34" selection-end-line="166" selection-end-column="34" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
@@ -272,6 +353,67 @@
             <element signature="e#590#591#0" expanded="true" />
             <element signature="e#2775#2776#0" expanded="true" />
             <element signature="e#2830#2831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B/FreightCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B/Carriage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B/CoachService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="76" lean-forward="true" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#243#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
           </folding>
         </state>
       </provider>
